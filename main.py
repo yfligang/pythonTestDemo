@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
     import keyword
     print(keyword.kwlist)
+    print("Hello,world!") #增加一个试试git
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
